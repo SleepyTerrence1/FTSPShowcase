@@ -6,14 +6,7 @@ body {
   color: #eaf5ff;
    padding: 20px;
 }
-hr {
-  border: none;
-  height: 5px;
-  background-color: #4cc9f0;
-  border-radius: 5px;
-  width: 80%;
-  margin: 40px auto;
-}
+
 
 
 /* ==== NAVIGATION BAR ==== */
