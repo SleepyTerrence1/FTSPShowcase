@@ -2,14 +2,14 @@
 body {
   margin: auto;
   font-family: 'Fredoka', sans-serif;
-  background-color: #e3ecf5; /* dark blue aesthetic */
+  background-color: #e3ecf5; 
   color: #eaf5ff;
    padding: 20px;
 }
 
 /* ==== NAVIGATION BAR ==== */
 nav {
-  background-color: #1b263b;  /* navy tone */
+  background-color: #c3d7fc;  /* navy tone */
   padding: 1rem 2rem;
   display: flex;
   justify-content: space-between;
