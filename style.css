@@ -6,6 +6,15 @@ body {
   color: #eaf5ff;
    padding: 20px;
 }
+hr {
+  border: none;
+  height: 5px;
+  background-color: #4cc9f0;
+  border-radius: 5px;
+  width: 80%;
+  margin: 40px auto;
+}
+
 
 /* ==== NAVIGATION BAR ==== */
 nav {
@@ -120,6 +129,26 @@ h1, h2, h3 {
 }
 
 #lore p {
+  font-size: 1.2rem;
+  color: #333;
+  max-width: 600px;
+  margin: 10px auto;
+}
+
+/* section split */
+#Images {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #e0f2ff;
+}
+
+#Images h1 {
+  font-size: 2.5rem;
+  margin-bottom: 15px;
+  color: #1e3a8a;
+}
+
+#Images p {
   font-size: 1.2rem;
   color: #333;
   max-width: 600px;
