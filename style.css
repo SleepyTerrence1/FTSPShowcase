@@ -10,7 +10,11 @@ section {
   scroll-margin-top: 80px; /* adjust depending on navbar height */
 }
 .ImageAll{
-  
+  padding-top: 20px;
+  width: 300px; /* or whatever size */
+  height: auto; /* keep aspect ratio */
+  width: 300px;
+  height: auto;
 }
 
 /* ==== NAVIGATION BAR ==== */
