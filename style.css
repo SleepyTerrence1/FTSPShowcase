@@ -6,7 +6,9 @@ body {
   color: #eaf5ff;
    padding: 20px;
 }
-
+section {
+  scroll-margin-top: 80px; /* adjust depending on navbar height */
+}
 
 
 /* ==== NAVIGATION BAR ==== */
